@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+
+div {
+    height: 150px;
+    width: 450px;
+    border: 1px solid white;
+    margin: auto;
+}
